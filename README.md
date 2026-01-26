@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/View%20My%20Work-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="<YOUR_CV_LINK>">
+  <a href="https://drive.google.com/file/d/1LGYONumq3RA9mgQmn_6RQUhs9JtKXFsW/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download%20CV-00C897?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
