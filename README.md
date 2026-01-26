@@ -51,21 +51,21 @@
 
 <!-- Buttons -->
 <p>
-  <a href="https://github.com/data98priyanka?tab=repositories">
+  <a href="https://github.com/data98priyanka?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Work-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://drive.google.com/file/d/1LGYONumq3RA9mgQmn_6RQUhs9JtKXFsW/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1LGYONumq3RA9mgQmn_6RQUhs9JtKXFsW/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-00C897?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
 <!-- Social -->
 <p>
-  <a href="https://www.linkedin.com/in/priyanka-de-711555289/">
+  <a href="https://www.linkedin.com/in/priyanka-de-711555289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
   <img src="https://img.shields.io/badge/Naukri%20Profile-0047AB?style=for-the-badge&logoColor=white"/>
 </a>
 </p>
