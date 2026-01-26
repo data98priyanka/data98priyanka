@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="assets/78.jfif" width="100%" height="220" />
+  <img src="assets/89.jpg" width="100%" />
 </p>
 
 <br/>
@@ -91,8 +91,3 @@
 
 <hr/>
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=800&color=2F80ED&center=true&vCenter=true&width=850&height=120&lines=Full+Stack+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+AWS;Product+%26+Marketing+Analytics;Data+Engineering+%E2%86%92+Analytics+%E2%86%92+Dashboard" />
-</p>
