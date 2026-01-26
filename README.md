@@ -3,11 +3,9 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="assets/89.jpg" width="100%" />
+  <img src="assets/11.jpg" width="100%" />
 </p>
-
 <br/>
-
 <div align="center">
 
 <h1>Hi 👋, I'm <span style="color:#2F80ED;">Priyanka De</span></h1>
