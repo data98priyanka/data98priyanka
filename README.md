@@ -72,10 +72,10 @@
 
 </td>
 
+<!-- ✅ RIGHT SIDE IMAGE COLUMN -->
 <td width="40%" align="center">
 
-<!-- Replace with your GIF path after uploading -->
-<img src="assets/coding-girl.gif" width="320" />
+<img src="assets/56.jpg" width="100%" />
 
 </td>
 </tr>
