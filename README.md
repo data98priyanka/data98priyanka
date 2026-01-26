@@ -13,7 +13,7 @@
         Hi 👋, I'm <span style="color:#2F80ED;">Priyanka De</span>
       </h1>
       <p style="margin:8px 0 0 0; font-size:16px;">
-        Full Stack Data Analyst • SQL • Python • Power BI • Excel • AWS
+        Full Stack Data Analyst • SQL • Python • Power BI • Excel • AWS • Git • Linux
       </p>
     </td>
   </tr>
