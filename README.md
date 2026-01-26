@@ -2,13 +2,25 @@
 <!-- HERO SECTION (TOP BANNER) -->
 <!-- ========================= -->
 
-<p align="center">
-  <img src="assets/11.jpg" width="100%" />
-</p>
-<br/>
 <div align="center">
 
-<h1>Hi 👋, I'm <span style="color:#2F80ED;">Priyanka De</span></h1>
+<div align="center">
+
+<table style="border:1px solid #2F80ED; border-radius:14px;">
+  <tr>
+    <td align="center" bgcolor="#0B1220" style="padding:16px 28px; border-radius:14px;">
+      <h1 style="margin:0;">
+        Hi 👋, I'm <span style="color:#2F80ED;">Priyanka De</span>
+      </h1>
+      <p style="margin:8px 0 0 0; font-size:16px;">
+        Full Stack Data Analyst • SQL • Python • Power BI • Excel • AWS
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1500&color=2F80ED&center=true&vCenter=true&width=800&lines=Full+Stack+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+AWS;Data+Engineering+%2B+Analytics+%2B+Business+Storytelling;Turning+data+into+decision-ready+insights" />
