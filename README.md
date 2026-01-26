@@ -55,10 +55,6 @@
     <img src="https://img.shields.io/badge/View%20My%20Work-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="your-pdecloud98@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
   <a href="<YOUR_CV_LINK>">
     <img src="https://img.shields.io/badge/Download%20CV-00C897?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
@@ -69,9 +65,9 @@
   <a href="https://www.linkedin.com/in/priyanka-de-711555289/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="<YOUR_PORTFOLIO>">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
+  <img src="https://img.shields.io/badge/Naukri%20Profile-0047AB?style=for-the-badge&logoColor=white"/>
+</a>
 </p>
 
 </td>
