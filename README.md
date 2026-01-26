@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/View%20My%20Work-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="mailto:your-pdecloud98@gmail.com">
+  <a href="your-pdecloud98@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
