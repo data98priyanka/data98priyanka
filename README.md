@@ -75,7 +75,7 @@
 <!-- ✅ RIGHT SIDE IMAGE COLUMN -->
 <td width="40%" align="center">
 
-<img src="assets/56.jpg" width="100%" />
+<img src="assets/56.jpg" width="100%" height="800" />
 
 </td>
 </tr>
