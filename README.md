@@ -85,40 +85,24 @@
 
 ### ⚡ My Tech Stack
 
-<p align="left">
+<h2>🧠 Skills & Tech Stack</h2>
 
-  <!-- Cloud -->
+
+<p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="55"/>
   </a>
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="55"/>
   </a>
-
-  <!-- Programming -->
+  <a href="https://spark.apache.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="60"/>
+  </a>
+</p>
+<p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
   </a>
-
-  <!-- Version Control -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55"/>
-  </a>
-
-  <!-- OS -->
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55"/>
-  </a>
-
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
-  </a>
-
-  <!-- Data / Analytics -->
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55"/>
   </a>
@@ -131,34 +115,10 @@
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" height="40"/>
   </a>
-
-  <!-- Plotly -->
   <a href="https://plotly.com/python/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="55"/>
   </a>
 
-  <!-- Big Data -->
-  <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="60"/>
-  </a>
-
-  <!-- Web Scraping / Automation -->
-  <a href="https://requests.readthedocs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white" height="35"/>
-  </a>
-  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank">
-    <img src="https://img.shields.io/badge/BeautifulSoup-2B6CB0?style=for-the-badge&logo=python&logoColor=white" height="35"/>
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="55"/>
-  </a>
-
-  <!-- ML -->
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="55"/>
-  </a>
-
-  <!-- BI Tools (proper official icons using shields) -->
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35"/>
   </a>
@@ -169,21 +129,46 @@
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="35"/>
   </a>
 
-  <!-- SQL Server / SSMS -->
-  <a href="https://learn.microsoft.com/sql/ssms/" target="_blank">
-    <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="35"/>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="55"/>
   </a>
 
-  <!-- Statistics (as category badge) -->
   <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank">
     <img src="https://img.shields.io/badge/Statistics-111827?style=for-the-badge&logo=databricks&logoColor=white" height="35"/>
   </a>
+</p>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55"/>
+  </a>
 
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
+  </a>
+
+  <a href="https://requests.readthedocs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white" height="35"/>
+  </a>
+  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank">
+    <img src="https://img.shields.io/badge/BeautifulSoup-2B6CB0?style=for-the-badge&logo=python&logoColor=white" height="35"/>
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="55"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/sql/ssms/" target="_blank">
+    <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="35"/>
+  </a>
 </p>
-<p>
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="90"/>
-</p>
+
 <hr/>
+
 <h3 align="center">✨ Thank You for Visiting ✨</h3>
 
 <div align="center">
