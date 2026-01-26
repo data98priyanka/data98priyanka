@@ -13,7 +13,7 @@
         Hi 👋, I'm <span style="color:#2F80ED;">Priyanka De</span>
       </h1>
       <p style="margin:8px 0 0 0; font-size:16px;">
-        Full Stack Data Analyst • SQL • Python • Power BI • Excel • AWS • Git • Linux
+      Full Stack Data Analyst • SQL • Python • Power BI • Excel • AWS • Git • Linux
       </p>
     </td>
   </tr>
@@ -40,22 +40,22 @@
 
 ## 🚀 About Me
 
-- 📊 Full Stack Data Analyst → **SQL, Python, Excel, Power BI**
-- ☁️ Cloud Analytics → **AWS S3, Glue, Athena, QuickSight**
+- 📊 Full Stack Data Analyst → **SQL, Python, Excel, Power BI,Tableau**
+- ☁️ Cloud Analytics → **AWS,Azure**
 - 🔁 End-to-End Pipelines → **Scrape → Store → Transform → Model → Dashboard**
-- 🎯 Domain Focus → **Product + Marketing Analytics**
-- 🧠 Learning → **AI-powered Analytics + Prompt Engineering**
-- 📫 Reach me → **your-email@gmail.com**
+- 🎯 Domain Focus → **Full Stack Analytics**
+- 🧠 Learning → **DATA SCIENCE ( AI-powered Analytics + Prompt Engineering + Machine Learing + Deep Learning )**
+- 📫 Reach me → **pdecloud98@gmail.com**
 
 <br/>
 
 <!-- Buttons -->
 <p>
-  <a href="https://github.com/<YOUR_USERNAME>?tab=repositories">
+  <a href="https://github.com/data98priyanka?tab=repositories">
     <img src="https://img.shields.io/badge/View%20My%20Work-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:your-pdecloud98@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -66,7 +66,7 @@
 
 <!-- Social -->
 <p>
-  <a href="<YOUR_LINKEDIN>">
+  <a href="https://www.linkedin.com/in/priyanka-de-711555289/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="<YOUR_PORTFOLIO>">
