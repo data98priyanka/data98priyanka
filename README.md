@@ -2,15 +2,21 @@
 <!-- HERO SECTION (TOP BANNER) -->
 <!-- ========================= -->
 
-<div align="center">
-
-<h1>Hello, I'm <span style="color:#2F80ED;">Priyanka De</span> 👋</h1>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Full+Stack+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+AWS;Data+Engineering+%2B+Analytics+%2B+Business+Storytelling;Turning+data+into+decision-ready+insights" />
+<p align="center">
+  <img src="assets/78.jfif" width="100%" height="220" />
 </p>
 
-<p><b>Full Stack Data Analyst</b> skilled in <b>Data Engineering</b>, <b>Analytics</b>, and <b>Dashboard Storytelling</b> — building end-to-end pipelines and business insights like a modern MNC analyst.</p>
+<br/>
+
+<div align="center">
+
+<h1>Hi 👋, I'm <span style="color:#2F80ED;">Priyanka De</span></h1>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1500&color=2F80ED&center=true&vCenter=true&width=800&lines=Full+Stack+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+AWS;Data+Engineering+%2B+Analytics+%2B+Business+Storytelling;Turning+data+into+decision-ready+insights" />
+</p>
+
+<p><b>Full Stack Data Analyst</b> skilled in <b>Data Engineering</b>, <b>Analytics</b>, and <b>Dashboard Storytelling</b> — Transforming complex data into actionable insights and innovative solutions through advanced analytics and machine learning with <b>realtime Business effectiveness</b>.</p>
 
 </div>
 
