@@ -176,6 +176,21 @@
 </div>
 
 
+<h3>🚀 Portfolio</h3>
+
+<p>
+  👉 <b>Tip:</b> Right-click → <b>Open link in new tab</b> (recommended)
+</p>
+
+<p align="left">
+  <a href="https://github.com/data98priyanka?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View%20My%20Work%20(Repos)-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/data98priyanka" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub%20Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 
 
