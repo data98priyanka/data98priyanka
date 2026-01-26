@@ -40,9 +40,9 @@
 
 ## 🚀 About Me
 
-- 📊 Full Stack Data Analyst → **SQL, Python, Excel, Power BI,Tableau**
+- 📊 Full Stack Data Analyst → **SQL, Python, Excel, Power BI,Tableau , Statistics**
 - ☁️ Cloud Analytics → **AWS,Azure**
-- 🔁 End-to-End Pipelines → **Scrape → Store → Transform → Data Validation → Data Modeling → Dashboard**
+- 🔁 End-to-End Pipelines → **Scrape → Store → Transform → Data Validation → Data Modeling → EDA + Feature-engineering → Dashboard**
 - 🎯 Domain Focus → **Full Stack Analytics**
 - 🧠 Learning → **DATA SCIENCE ( AI-powered Analytics + Prompt Engineering + Machine Learing + Deep Learning )**
 - 📫 Reach me → **pdecloud98@gmail.com**
