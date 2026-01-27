@@ -31,52 +31,42 @@
 
 <br/>
 
+
 <!-- Projects -->
 
 <h2 align="center">🚀 My Projects</h2>
-
-<!-- ROW 1 (4 Images) -->
 <p align="center">
-  <a href="LINK_FMCG" target="_blank">
-    <img src="assets/project/55.png" width="220" style="margin: 18px;" />
-  </a>
-
-  <a href="LINK_MEDIA" target="_blank">
-    <img src="assets/project/88.png" width="220" style="margin: 18px;" />
-  </a>
-
-  <a href="LINK_ECOMMERCE" target="_blank">
-    <img src="assets/project/66.png" width="220" style="margin: 18px;" />
-  </a>
-
-  <a href="LINK_TELECOM" target="_blank">
-    <img src="assets/project/77.png" width="220" style="margin: 18px;" />
-  </a>
+<h3> A collection of Real-world business projects focused on solving business problems using data-driven insights. </h3>
 </p>
 
-<!-- ROW 2 (3 Images) -->
 <p align="center">
-  <a href="LINK_FOR_100" target="_blank">
-    <img src="assets/project/100.JPG" width="200" style="margin: 18px;" />
-  </a>
-
-  <a href="LINK_FOR_99" target="_blank">
-    <img src="assets/project/99.JPG" width="200" style="margin: 18px;" />
-  </a>
-
-  <a href="LINK_FOR_101" target="_blank">
-    <img src="assets/project/101.JPG" width="200" style="margin: 18px;" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=520&lines=Explore+my+work+below+%F0%9F%91%87" />
 </p>
+
+<p align="center">
+  <a href="LINK_FMCG"><img src="assets/project/11.JPG" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="LINK_MEDIA"><img src="assets/project/22.JPG" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="LINK_ECOMMERCE"><img src="assets/project/33.JPG" width="160"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="LINK_TELECOM"><img src="assets/project/44.JPG" width="170"></a>
+</p>
+
+<p align="center">
+  <a href="LINK_MANUFACTURING"><img src="assets/project/55.JPG" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="LINK_BFSI"><img src="assets/project/66.JPG" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="LINK_HEALTHCARE"><img src="assets/project/77.JPG" width="170"></a>
+</p>
+
+<br><br>
 
 
 <!-- HERO 2 COLUMN LAYOUT -->
-<table>
-<tr>
 
-<td width="60%" valign="top">
+<h2 align="center">💼 Professional Summary</h2>
+<table style="border:none; border-collapse:collapse; width:100%;" cellspacing="0" cellpadding="0">
+  
+<tr style="border:none;">
 
-## 🚀 About Me  
+  <td style="border:none; padding:0; vertical-align:top;">
 
 ### 💡 What I Do (My Strengths)
 - Perform **deep analysis** &  Build **business-ready dashboards** (Power BI / Tableau) with KPI frameworks, drilldowns & storytelling
@@ -97,7 +87,7 @@
 </td>
 
 <!-- ✅ RIGHT SIDE IMAGE COLUMN -->
-<td>
+<td style="border:none; padding:0; vertical-align:top;">
 <p align="center">
 
   <br/>
@@ -105,7 +95,7 @@
     <img src="assets/buttons/downloadcv.svg" width="500" />
   </a>
   <br/>
- <a href="https://wa.me/919999999999?text=Hi%20Priyanka%2C%20I%20saw%20your%20GitHub%20profile%20and%20want%20to%20connect." target="_blank">
+ <a href="https://wa.me/917063257272?text=Hi%20Priyanka%2C%20I%20saw%20your%20GitHub%20profile%20and%20want%20to%20connect." target="_blank">
   <img src="assets/buttons/wapp.svg" alt="WhatsApp" width="400">
 </a>
 
@@ -133,9 +123,11 @@
 </tr>
 </table>
 
-<hr/>
+<br><br>
+
 
 ### ⚡ My Tech Stack
+<hr/>
 
 
 <p align="left">
