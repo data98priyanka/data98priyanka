@@ -37,44 +37,55 @@
 
 <td width="60%" valign="top">
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 📊 Full Stack Data Analyst → **SQL, Python, Excel, Power BI,Tableau , Statistics**
-- ☁️ Cloud Analytics → **AWS,Azure**
-- 🔁 End-to-End Pipelines → **Scrape → Store → Transform → Data Validation → Data Modeling → EDA + Feature-engineering → Dashboard**
-- 🎯 Domain Focus → **Full Stack Analytics**
-- 🧠 Learning → **DATA SCIENCE ( AI-powered Analytics + Prompt Engineering + Machine Learing + Deep Learning )**
-- 📫 Reach me → **pdecloud98@gmail.com**
+### 💡 What I Do (My Strengths)
+- 📊 Build **business-ready dashboards** (Power BI / Tableau) with KPI frameworks, drilldowns & storytelling
+- 🧠 Perform **deep analysis** (SQL + Python) — cohort, funnel, segmentation, retention & performance diagnostics
+- 🏗️ Design **data pipelines** — scraping → cleaning → validation → transformation → data modeling
+- ☁️ Work with cloud & scalable tools — **AWS (S3)** + automation-friendly workflows
+- ✅ Focus on outcomes: **insights, revenue opportunities, churn reduction & operational efficiency**
 
-<br/>
+### 🔥 What Makes Me Different
+- I don’t just “analyze data” — I **convert messy datasets into decision systems**
+- Strong in **EDA + Feature Engineering + Business Metrics**
+- Comfortable with both **analytics + engineering workflows**, so I can own projects end-to-end
 
-<!-- Buttons -->
-<p>
-  <a href="https://github.com/data98priyanka?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Work-2F80ED?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+### 🎯 Currently Looking For
+✅ **Full Stack Data Analyst / Product Analyst / BI Analyst roles**  
+I’m especially interested in **product analytics, marketing analytics, and business intelligence**.
 
-  <a href="https://drive.google.com/file/d/1LGYONumq3RA9mgQmn_6RQUhs9JtKXFsW/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CV-00C897?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-</p>
-
-<!-- Social -->
-<p>
-  <a href="https://www.linkedin.com/in/priyanka-de-711555289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
-  <img src="https://img.shields.io/badge/Naukri%20Profile-0047AB?style=for-the-badge&logoColor=white"/>
-</a>
-</p>
+📩 **Reach me:** `pdecloud98@gmail.com`
 
 </td>
 
 <!-- ✅ RIGHT SIDE IMAGE COLUMN -->
-<td width="40%" align="center">
-
-<img src="assets/56.jpg" width="100%" height="800" />
+<td>
+<p align="center">
+  <a href="https://github.com/data98priyanka?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW%20WORK-22c55e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br/>
+    <a href="https://drive.google.com/file/d/1LGYONumq3RA9mgQmn_6RQUhs9JtKXFsW/view" target="_blank">
+    <img src="assets/buttons/downloadcv.svg" width="500" />
+  </a>
+  <br/>
+    <a href="tel:+917063257272" style="text-decoration:none;">
+    <img src="assets/buttons/contactme.svg" width="350" />
+  </a>
+  <br/>
+    <a>
+    <img src="assets/buttons/email.svg" width="500" />
+  </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/priyanka-de-711555289/" target="_blank">
+    <img src="assets/buttons/linkedin.svg" width="400" />
+  </a>
+  <br/>
+   <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
+    <img src="assets/buttons/naukri.svg" width="400" />
+  </a>
+</p>
 
 </td>
 </tr>
@@ -179,6 +190,11 @@
 
 
 
+
+
+ <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
+    <img src="assets/buttons/naukri.svg" width="400" />
+  </a>
 
 
 
