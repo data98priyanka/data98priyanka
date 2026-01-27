@@ -31,6 +31,45 @@
 
 <br/>
 
+<!-- Projects -->
+
+<h2 align="center">🚀 My Projects</h2>
+
+<!-- ROW 1 (4 Images) -->
+<p align="center">
+  <a href="LINK_FMCG" target="_blank">
+    <img src="assets/project/55.png" width="220" style="margin: 18px;" />
+  </a>
+
+  <a href="LINK_MEDIA" target="_blank">
+    <img src="assets/project/88.png" width="220" style="margin: 18px;" />
+  </a>
+
+  <a href="LINK_ECOMMERCE" target="_blank">
+    <img src="assets/project/66.png" width="220" style="margin: 18px;" />
+  </a>
+
+  <a href="LINK_TELECOM" target="_blank">
+    <img src="assets/project/77.png" width="220" style="margin: 18px;" />
+  </a>
+</p>
+
+<!-- ROW 2 (3 Images) -->
+<p align="center">
+  <a href="LINK_FOR_100" target="_blank">
+    <img src="assets/project/100.JPG" width="200" style="margin: 18px;" />
+  </a>
+
+  <a href="LINK_FOR_99" target="_blank">
+    <img src="assets/project/99.JPG" width="200" style="margin: 18px;" />
+  </a>
+
+  <a href="LINK_FOR_101" target="_blank">
+    <img src="assets/project/101.JPG" width="200" style="margin: 18px;" />
+  </a>
+</p>
+
+
 <!-- HERO 2 COLUMN LAYOUT -->
 <table>
 <tr>
