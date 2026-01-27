@@ -40,8 +40,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=520&lines=Explore+my+work+below+%F0%9F%91%87" />
+  <a href="https://github.com/data98priyanka?tab=repositories" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=520&lines=Click+to+Explore+My+Work+%F0%9F%91%87" />
+  </a>
 </p>
+
+
 
 <p align="center">
   <a href="https://github.com/data98priyanka/Evereve-Product-Marketing-Analytics-Business-Growth-AWS-ETL-Automation-BI-Dashboard"><img src="assets/project/11.JPG" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
