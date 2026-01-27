@@ -123,7 +123,7 @@
 </tr>
 </table>
 
-<br><br>
+<br>
 
 
 ### ⚡ My Tech Stack
