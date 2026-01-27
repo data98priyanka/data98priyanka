@@ -4,27 +4,20 @@
 
 <div align="center">
 
-<div align="center">
+<!-- ✅ SKY BLUE GRADIENT INTRO BOX (FULL) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/data98priyanka/data98priyanka/main/assets/intro-box.svg" />
+</p>
 
-<table style="border:1px solid #2F80ED; border-radius:14px;">
-  <tr>
-    <td align="center" bgcolor="#0B1220" style="padding:16px 28px; border-radius:14px;">
-      <h1 style="margin:0;">
-        Hi 👋, I'm <span style="color:#2F80ED;">Priyanka De</span>
-      </h1>
-      <p style="margin:8px 0 0 0; font-size:16px;">
-      Full Stack Data Analyst • SQL • Python • Power BI • Excel • AWS • Git • Linux
-      </p>
-    </td>
-  </tr>
-</table>
 
 </div>
 
 
+<div align="center">
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1500&color=2F80ED&center=true&vCenter=true&width=800&lines=Full+Stack+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+AWS;Data+Engineering+%2B+Analytics+%2B+Business+Storytelling;Turning+data+into+decision-ready+insights" />
 </p>
+</div>
 
 <p><b>Full Stack Data Analyst</b> skilled in <b>Data Engineering</b>, <b>Analytics</b>, and <b>Dashboard Storytelling</b> — Transforming complex data into actionable insights and innovative solutions through advanced analytics and machine learning with <b>realtime Business effectiveness</b>.</p>
 
