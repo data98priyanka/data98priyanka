@@ -40,22 +40,21 @@
 ## 🚀 About Me  
 
 ### 💡 What I Do (My Strengths)
-- 📊 Build **business-ready dashboards** (Power BI / Tableau) with KPI frameworks, drilldowns & storytelling
-- 🧠 Perform **deep analysis** (SQL + Python) — cohort, funnel, segmentation, retention & performance diagnostics
-- 🏗️ Design **data pipelines** — scraping → cleaning → validation → transformation → data modeling
-- ☁️ Work with cloud & scalable tools — **AWS (S3)** + automation-friendly workflows
-- ✅ Focus on outcomes: **insights, revenue opportunities, churn reduction & operational efficiency**
+- Build **business-ready dashboards** (Power BI / Tableau) with KPI frameworks, drilldowns & storytelling
+- Perform **deep analysis** (SQL + Python) — cohort, funnel, segmentation, retention & performance diagnostics
+- Design **data pipelines** — scraping → cleaning → validation → transformation → data modeling
+- Work with cloud & scalable tools — **AWS (S3)** + automation-friendly workflows
+- **OS** - **Linux**
+- **GIT** + **Github**
+-  Focus on outcomes: **insights, revenue opportunities, churn reduction & operational efficiency**
 
 ### 🔥 What Makes Me Different
 - I don’t just “analyze data” — I **convert messy datasets into decision systems**
 - Strong in **EDA + Feature Engineering + Business Metrics**
 - Comfortable with both **analytics + engineering workflows**, so I can own projects end-to-end
-
-### 🎯 Currently Looking For
-✅ **Full Stack Data Analyst / Product Analyst / BI Analyst roles**  
-I’m especially interested in **product analytics, marketing analytics, and business intelligence**.
-
-📩 **Reach me:** `pdecloud98@gmail.com`
+- **Learning** - **ML**,**Deep Learning** + **Data Science**
+  <br/>
+🎯 **Actively seeking:** Full Stack Data Analyst | Product Analyst | BI Analyst roles 
 
 </td>
 
