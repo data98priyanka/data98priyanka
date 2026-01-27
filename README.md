@@ -76,7 +76,7 @@ I’m especially interested in **product analytics, marketing analytics, and bus
 
 
   <br/>
-    <a>
+   <a href="mailto:pdecloud98@gmail.com,dataexplorepriyanka@gmail.com">
     <img src="assets/buttons/email.svg" width="500" />
   </a>
   <br/>
@@ -193,17 +193,7 @@ I’m especially interested in **product analytics, marketing analytics, and bus
 
 
 
-<a href="callto:+917063257272">
-  <img src="https://img.shields.io/badge/📞%20CALL%20ME-2aaae2?style=for-the-badge&logo=phone&logoColor=white" />
-</a>
 
-
-<a href="https://wa.me/917063257272" target="_blank">
-  <img src="https://img.shields.io/badge/💬%20WHATSAPP%20ME-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="mailto:pdecloud98@gmail.com">
-  <img src="https://img.shields.io/badge/📩%20EMAIL%20ME-f59e0b?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 
 
