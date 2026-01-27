@@ -1,32 +1,37 @@
 
-  
-  <!-- YOUR SVG START -->
-  <svg width="230" height="56" viewBox="0 0 230 56" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="btnGrad" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0%" stop-color="#4AA3D8"/>
-        <stop offset="100%" stop-color="#1F6FAE"/>
-      </linearGradient>
-    </defs>
+<svg width="230" height="56" viewBox="0 0 230 56" xmlns="http://www.w3.org/2000/svg">
 
-    <rect width="230" height="56" rx="28" fill="url(#btnGrad)"/>
-    <circle cx="34" cy="28" r="20" fill="#FFFFFF"/>
+  <!-- Button background -->
+  <defs>
+    <linearGradient id="btnGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4AA3D8"/>
+      <stop offset="100%" stop-color="#1F6FAE"/>
+    </linearGradient>
+  </defs>
 
-    <path d="M28 22 C25 25,25 31,30 36
-             C35 41,43 42,46 39
-             L42 35 C40 37,36 35,34 33
-             C32 31,30 27,32 25 Z"
-          fill="#1F6FAE"/>
+  <rect x="0" y="0" width="230" height="56" rx="28" fill="url(#btnGrad)"/>
 
-    <text x="70" y="35"
-          font-family="Arial"
-          font-size="16"
-          font-weight="700"
-          letter-spacing="1.2"
-          fill="#FFFFFF">
-      CONTACT US
-    </text>
-  </svg>
-  <!-- YOUR SVG END -->
+  <!-- Left white circle -->
+  <circle cx="34" cy="28" r="20" fill="#FFFFFF"/>
 
-</a>
+  <!-- Phone icon (exact curved style) -->
+  <path d="M28 22
+           C25 25, 25 31, 30 36
+           C35 41, 43 42, 46 39
+           L42 35
+           C40 37, 36 35, 34 33
+           C32 31, 30 27, 32 25
+           Z"
+        fill="#1F6FAE"/>
+
+  <!-- Text -->
+  <text x="70" y="35"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        font-weight="700"
+        letter-spacing="1.2"
+        fill="#FFFFFF">
+    CONTACT US
+  </text>
+
+</svg>
