@@ -62,24 +62,27 @@ I’m especially interested in **product analytics, marketing analytics, and bus
 <!-- ✅ RIGHT SIDE IMAGE COLUMN -->
 <td>
 <p align="center">
-  <a href="https://github.com/data98priyanka?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW%20WORK-22c55e?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
   <br/>
     <a href="https://drive.google.com/file/d/1LGYONumq3RA9mgQmn_6RQUhs9JtKXFsW/view" target="_blank">
     <img src="assets/buttons/downloadcv.svg" width="500" />
   </a>
   <br/>
-  <a href="tel:+917063257272">
-  <img src="./assets/buttons/contactme.svg" width="350" alt="📞 Call Priyanka De" />
+ <a href="https://wa.me/919999999999?text=Hi%20Priyanka%2C%20I%20saw%20your%20GitHub%20profile%20and%20want%20to%20connect." target="_blank">
+  <img src="assets/buttons/wapp.svg" alt="WhatsApp" width="400">
 </a>
-
 
   <br/>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pdecloud98@gmail.com,dataexplorepriyanka@gmail.com" target="_blank">
     <img src="assets/buttons/email.svg" width="500" />
   </a>
   <br/>
+ 
+  <a href="https://github.com/data98priyanka?tab=repositories" target="_blank">
+    <img src="assets/buttons/git.svg" width="400" />
+  </a>
+  <br/>
+  
   <a href="https://www.linkedin.com/in/priyanka-de-711555289/" target="_blank">
     <img src="assets/buttons/linkedin.svg" width="400" />
   </a>
