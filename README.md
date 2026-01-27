@@ -174,8 +174,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1400&color=2F80ED&center=true&vCenter=true&width=900&lines=Thank+you+for+visiting+my+GitHub+Profile!;If+you+liked+my+work%2C+let's+connect+and+collaborate.;Open+to+Full+Stack+Data+Analyst+roles+%7C+Projects+%7C+Networking" />
 </div>
 <p align="center">
-  <img src="./assets/24.gif" width="500" />
-  <img src="./assets/25.gif" width="500" />
+  <img src="./assets/24.gif" width="405" />
+  <img src="./assets/25.gif" width="405" />
 </p>
 
 
