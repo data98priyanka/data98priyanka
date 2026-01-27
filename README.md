@@ -198,6 +198,9 @@ I’m especially interested in **product analytics, marketing analytics, and bus
 </a>
 
 
+<a href="https://wa.me/917063257272" target="_blank">
+  <img src="https://img.shields.io/badge/💬%20WHATSAPP%20ME-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 
 
