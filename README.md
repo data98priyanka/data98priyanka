@@ -36,7 +36,7 @@
 
 <h2 align="center">🚀 My Projects</h2>
 <p align="center">
-<b> A collection of Real-world business projects focused on solving business problems using data-driven insights. </b>
+<b> A collection of Real-world business projects focused on solving business problems using data-driven insights in various business sector. </b>
 </p>
 
 <p align="center">
