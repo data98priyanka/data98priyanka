@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+  <defs>
+    <!-- ✅ Sky Blue Gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8f8ff"/>
+      <stop offset="45%" stop-color="#bfeaff"/>
+      <stop offset="100%" stop-color="#7fd1ff"/>
+    </linearGradient>
+
+    <!-- ✅ Shadow -->
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <!-- ✅ Rounded Gradient Box -->
+  <rect x="30" y="25" width="1140" height="140" rx="18" fill="url(#bg)" filter="url(#shadow)"/>
+
+  <!-- ✅ Title -->
+  <text x="600" y="78" text-anchor="middle"
+        font-size="40"
+        font-family="Poppins, Arial, sans-serif"
+        font-weight="800"
+        fill="#0b2c4a">
+    Hi 👋, I'm Priyanka De
+  </text>
+
+  <!-- ✅ Divider Line inside the box -->
+  <line x1="120" y1="98" x2="1080" y2="98"
+        stroke="#0b2c4a" stroke-opacity="0.25" stroke-width="2"/>
+
+  <!-- ✅ Subtitle -->
+  <text x="600" y="135" text-anchor="middle"
+        font-size="18"
+        font-family="Poppins, Arial, sans-serif"
+        font-weight="600"
+        fill="#0b2c4a">
+    Full Stack Data Analyst • SQL • Python • Power BI • Excel • AWS • Git • Linux
+  </text>
+</svg>
