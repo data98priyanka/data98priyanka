@@ -84,8 +84,6 @@
 
 ### ⚡ My Tech Stack
 
-<h2>🧠 Skills & Tech Stack</h2>
-
 
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
@@ -186,5 +184,5 @@
 
 
 
-<hr/>
+
 
