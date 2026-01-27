@@ -24,9 +24,9 @@
 </div>
 
 <p align="center">
-  <img src="assets/21.gif" width="270" />
-  <img src="assets/22.gif" width="270" />
-  <img src="assets/23.gif" width="270" />
+  <img src="assets/21.gif" width="280" />
+  <img src="assets/22.gif" width="280" />
+  <img src="assets/23.gif" width="280" />
 </p>
 
 <br/>
