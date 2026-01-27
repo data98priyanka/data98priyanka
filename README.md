@@ -76,7 +76,7 @@ I’m especially interested in **product analytics, marketing analytics, and bus
 
 
   <br/>
-   <a href="mailto:pdecloud98@gmail.com,dataexplorepriyanka@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pdecloud98@gmail.com,dataexplorepriyanka@gmail.com" target="_blank">
     <img src="assets/buttons/email.svg" width="500" />
   </a>
   <br/>
