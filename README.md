@@ -52,7 +52,8 @@
 - **Learning** - **ML**,**Deep Learning** + **Data Science**
 
 
-🎯 **Actively seeking:** Full Stack Data Analyst | Business Analyst | BI Analyst roles 
+🎯 Actively seeking:
+**Full Stack Data Analyst** | **Business Analyst** | **BI Analyst** roles 
 
 </td>
 
