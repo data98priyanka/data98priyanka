@@ -70,9 +70,10 @@ I’m especially interested in **product analytics, marketing analytics, and bus
     <img src="assets/buttons/downloadcv.svg" width="500" />
   </a>
   <br/>
-    <a href="tel:+917063257272">
-  <img src="./assets/buttons/contactme.svg" width="350" alt="Call Priyanka" />
+  <a href="tel:+917063257272">
+  <img src="./assets/buttons/contactme.svg" width="350" alt="📞 Call Priyanka De" />
 </a>
+
 
   <br/>
     <a>
