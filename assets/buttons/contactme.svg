@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="52" viewBox="0 0 260 52">
+  <!-- Blue pill -->
+  <rect x="34" y="8" width="214" height="36" rx="18" fill="#2E86C1"/>
+
+  <!-- White circle -->
+  <circle cx="34" cy="26" r="18" fill="#ffffff" opacity="0.98"/>
+  <circle cx="34" cy="26" r="18" fill="none" stroke="#d9d9d9" stroke-width="2"/>
+
+  <!-- Phone icon (centered) -->
+  <g transform="translate(34 26)">
+    <path d="M-6 -6
+             C-9 -2, -8 5, -2 9
+             C4 13, 10 13, 12 10
+             L8 6
+             C6 8, 2 7, 0 5
+             C-2 3, -4 0, -2 -2
+             Z"
+          fill="#2E86C1"/>
+  </g>
+
+  <!-- Text -->
+  <text x="150" y="31"
+        font-family="Arial, sans-serif"
+        font-weight="700"
+        font-size="16"
+        text-anchor="middle"
+        fill="#ffffff"
+        letter-spacing="1">
+    CONTACT
+  </text>
+</svg>
