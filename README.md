@@ -193,10 +193,10 @@ I’m especially interested in **product analytics, marketing analytics, and bus
 
 
 
-
- <a href="tel:+917063257272">
-  <img src="https://img.shields.io/badge/📞%20CALL%20ME-2aaae2?style=for-the-badge&logo=googlemessages&logoColor=white" />
+<a href="callto:+917063257272">
+  <img src="https://img.shields.io/badge/📞%20CALL%20ME-2aaae2?style=for-the-badge&logo=phone&logoColor=white" />
 </a>
+
 
 
 
