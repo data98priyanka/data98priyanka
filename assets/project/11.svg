@@ -33,7 +33,7 @@
 
   <!-- Your EXACT image -->
   <g clip-path="url(#clip)">
-    <image href="https://github.com/data98priyanka/data98priyanka/blob/main/assets/project/11.JPG"
+    <image href="https://raw.githubusercontent.com/data98priyanka/data98priyanka/main/assets/project/11.JPG"
            x="22" y="18" width="316" height="324"
            preserveAspectRatio="xMidYMid slice" />
 
@@ -41,7 +41,6 @@
     <rect x="22" y="210" width="316" height="132" fill="url(#overlay)"/>
   </g>
 
- 
 
-  </a>
+
 </svg>
