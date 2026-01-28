@@ -24,7 +24,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/21.gif" width="275" />
+  <img src="./assets/21.gif" width="275" />
   <img src="assets/22.gif" width="275" />
   <img src="assets/23.gif" width="275" />
 </p>
@@ -48,16 +48,16 @@
 
 
 <p align="center">
-  <a href="https://github.com/data98priyanka/Evereve-Product-Marketing-Analytics-Business-Growth-AWS-ETL-Automation-BI-Dashboard"><img src="assets/project/11.JPG" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/data98priyanka/Media--entertainment--sector"><img src="assets/project/22.JPG" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/data98priyanka/ecommerce--retail"><img src="assets/project/33.JPG" width="160"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/data98priyanka/telecom"><img src="assets/project/44.JPG" width="170"></a>
+  <a href="https://github.com/data98priyanka/Evereve-Product-Marketing-Analytics-Business-Growth-AWS-ETL-Automation-BI-Dashboard"><img src="assets/project/EE.png" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/data98priyanka/Media--entertainment--sector"><img src="assets/project/FF.png" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/data98priyanka/ecommerce--retail"><img src="assets/project/CC.png" width="195"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/data98priyanka/telecom"><img src="assets/project/TT.png" width="195"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/data98priyanka/Manufacturing--Supply--chain"><img src="assets/project/55.JPG" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/data98priyanka/BFSI--SECTOR"><img src="assets/project/66.JPG" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/data98priyanka/Healthcare--Pharma"><img src="assets/project/77.JPG" width="170"></a>
+  <a href="https://github.com/data98priyanka/Manufacturing--Supply--chain"><img src="assets/project/mm.png" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/data98priyanka/BFSI--SECTOR"><img src="assets/project/BB.png" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/data98priyanka/Healthcare--Pharma"><img src="assets/project/HH.png" width="200"></a>
 </p>
 
 <br><br>
@@ -227,6 +227,20 @@
 
 
 
+
+
+<p align="center">
+  <a href="https://github.com/data98priyanka/Evereve-Product-Marketing-Analytics-Business-Growth-AWS-ETL-Automation-BI-Dashboard"><img src="assets/project/EE.png" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/data98priyanka/Healthcare--Pharma"><img src="assets/project/HH.png" width="200"></a>
+  <a href="https://github.com/data98priyanka/BFSI--SECTOR"><img src="assets/project/BB.png" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/data98priyanka/Media--entertainment--sector"><img src="assets/project/FF.png" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+   <a href="https://github.com/data98priyanka/telecom"><img src="assets/project/TT.png" width="195"></a>
+  <a href="https://github.com/data98priyanka/Manufacturing--Supply--chain"><img src="assets/project/55.JPG" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/data98priyanka/ecommerce--retail"><img src="assets/project/LL.png" width="202"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 
