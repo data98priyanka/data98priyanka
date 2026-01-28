@@ -40,7 +40,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/data98priyanka?tab=repositories" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=520&lines=Click+to+Explore+My+Work+%F0%9F%91%87" />
   </a>
 </p>
