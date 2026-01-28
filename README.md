@@ -40,9 +40,9 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=520&lines=Click+to+Explore+My+Work+%F0%9F%91%87" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Choose+Any+Sector+To+Explore+My+Work+Here+%F0%9F%91%87" />
 </p>
+
 
 
 
