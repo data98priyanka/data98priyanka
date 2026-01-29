@@ -50,7 +50,7 @@
   <a href="https://github.com/data98priyanka/Evereve-Product-Marketing-Analytics-Business-Growth-AWS-ETL-Automation-BI-Dashboard"><img src="assets/project/EE.png" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/data98priyanka/Media--entertainment--sector"><img src="assets/project/FF.png" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/data98priyanka/ecommerce--retail"><img src="assets/project/CC.png" width="165"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/data98priyanka/telecom"><img src="assets/project/TT.png" width="165"></a>
+  <a href="https://github.com/data98priyanka/telecom"><img src="assets/project/tt.png" width="170"></a>
 </p>
 
 <p align="center">
@@ -65,6 +65,11 @@
 <!-- HERO 2 COLUMN LAYOUT -->
 
 <h2 align="center">💼 Professional Summary</h2>
+<p align="center">
+  <b><span style="color:#001f3f;">🤝 Open to full-time positions and professional collaborations — Feel free to reach out.</span></b>
+</p>
+
+
 <table style="border:none; border-collapse:collapse; width:100%;" cellspacing="0" cellpadding="0">
   
 <tr style="border:none;">
