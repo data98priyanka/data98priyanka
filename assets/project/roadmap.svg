@@ -14,7 +14,7 @@
   </defs>
 
   <!-- small rounded box -->
-  <rect x="120" y="18" width="660" height="50" rx="14" fill="url(#miniGrey)" filter="url(#shadow)"/>
+  <rect x="160" y="18" width="600" height="50" rx="14" fill="url(#miniGrey)" filter="url(#shadow)"/>
 
   <!-- minimal accent bar -->
   <rect x="160" y="18" width="8" height="50" rx="14" fill="#6e6e6e"/>
