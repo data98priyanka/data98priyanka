@@ -73,7 +73,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Choose+Any+Sector+To+Explore+My+Work+Here+%F0%9F%91%87" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Choose+Any+Sector+And+Click+To+Explore+My+Work+Here+%F0%9F%91%87" />
 </p>
 
 
