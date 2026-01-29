@@ -34,10 +34,43 @@
 
 <!-- Projects -->
 
-<h2 align="center">🚀 My Projects</h2>
+<h2 align="center">📁 My Projects</h2>
 <p align="center">
 <b> A collection of Real-world business projects focused on solving business problems using data-driven insights in various business sector. </b>
 </p>
+
+<div align="center" style="
+  background: linear-gradient(90deg, #f2f2f2, #d9d9d9);
+  border: 1px solid #cfcfcf;
+  border-radius: 14px;
+  padding: 14px 18px;
+  margin: 14px 0;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.10);
+">
+
+  <p align="center">
+  <img src="assets/project/roadmap.svg" width="700" />
+</p>
+
+
+<p align="center">
+
+<b>1.</b> Understand Company Strategic Vision & Needs ➜
+<b>2.</b> Project Overview ➜
+<b>3.</b> Problem Statements ➜
+<b>4.</b> Objectives ➜
+<b>5.</b> Counter Questions to Stakeholders (Clarify Business Needs & Targets) ➜
+<b>6.</b> Data + ETL Flowchart ➜
+<b>7.</b> Live Power BI Dashboard ➜
+<b>8.</b> Insights + Recommendations (Storytelling) ➜
+<b>9.</b> Business Impact (Pre & Post Analysis) ➜
+<b>10.</b> Challenges ➜
+<b>11.</b> Enhancements ➜
+<b>12.</b> Boardroom PPT with Storytelling
+
+</p>
+
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Choose+Any+Sector+To+Explore+My+Work+Here+%F0%9F%91%87" />
