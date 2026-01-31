@@ -60,7 +60,7 @@
 <b>3.</b> Problem Statements ➜
 <b>4.</b> Objectives ➜
 <b>5.</b> Counter Questions to Stakeholders (Clarify Business Needs & Targets) ➜
-<b>6.</b> Data Cleaning + Data Validation + ETL Flowchart ➜
+<b>6.</b> EDA (Data Cleaning + Data Validation) + ETL Flowchart ➜
 <b>7.</b> Data Modelling chart ➜
 <b>8.</b> Live Power BI Dashboard ➜
 <b>9.</b> Insights + Recommendations (Storytelling) ➜
@@ -82,37 +82,37 @@
 
 <p align="center">
   <a href="https://github.com/data98priyanka/Evereve-Product-Marketing-Analytics-Business-Growth-AWS-ETL-Automation-BI-Dashboard">
-    <img src="assets/project/EE.png" width="200">
+    <img src="assets/project/EE.png" width="170">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/data98priyanka/Media--entertainment--sector">
-    <img src="assets/project/FF.png" width="200">
+    <img src="assets/project/FF.png" width="170">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/data98priyanka/ecommerce--retail">
-    <img src="assets/project/CC.png" width="195">
+    <img src="assets/project/CC.png" width="165">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/data98priyanka/telecom">
-    <img src="assets/project/tt.png" width="200">
+    <img src="assets/project/tt.png" width="170">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/data98priyanka/Manufacturing--Supply--chain">
-    <img src="assets/project/mm.png" width="200">
+    <img src="assets/project/mm.png" width="170">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/data98priyanka/BFSI--SECTOR">
-    <img src="assets/project/BB.png" width="200">
+    <img src="assets/project/BB.png" width="170">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/data98priyanka/Healthcare--Pharma">
-    <img src="assets/project/HH.png" width="200">
+    <img src="assets/project/HH.png" width="170">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/data98priyanka/Mini-projects-on-Advanced-Skills">
-    <img src="assets/project/mini0.png" width="205">
+    <img src="assets/project/mini0.png" width="175">
   </a>
 </p>
 
@@ -143,7 +143,7 @@
 ### 🔥 What Makes Me Different
 - I don’t just “analyze data” — I **convert messy datasets into decision systems**
 - Comfortable with both **analytics + engineering workflows**, so I can own projects end-to-end
-- **Learning** - **ML**,**Deep Learning** + **Data Science**
+- **Learning** - **ML** , **Deep Learning** + **Data Science** , **Databrics**
 
 
 🎯 Actively seeking:
@@ -285,18 +285,6 @@
   <img src="./assets/24.gif" width="420" />
   <img src="./assets/25.gif" width="420" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
