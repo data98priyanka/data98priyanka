@@ -112,7 +112,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/data98priyanka/Mini-projects-on-Advanced-Skills">
-    <img src="assets/project/mini1.png" width="200">
+    <img src="assets/project/mini0.png" width="205">
   </a>
 </p>
 
