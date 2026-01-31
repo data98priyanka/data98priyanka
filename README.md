@@ -60,13 +60,14 @@
 <b>3.</b> Problem Statements ➜
 <b>4.</b> Objectives ➜
 <b>5.</b> Counter Questions to Stakeholders (Clarify Business Needs & Targets) ➜
-<b>6.</b> Data + ETL Flowchart ➜
-<b>7.</b> Live Power BI Dashboard ➜
-<b>8.</b> Insights + Recommendations (Storytelling) ➜
-<b>9.</b> Business Impact (Pre & Post Analysis) ➜
-<b>10.</b> Challenges ➜
-<b>11.</b> Enhancements ➜
-<b>12.</b> Boardroom PPT with Storytelling
+<b>6.</b> Data Cleaning + Data Validation + ETL Flowchart ➜
+<b>7.</b> Data Modelling chart ➜
+<b>8.</b> Live Power BI Dashboard ➜
+<b>9.</b> Insights + Recommendations (Storytelling) ➜
+<b>10.</b> Business Impact (Pre & Post Analysis) ➜
+<b>11.</b> Challenges ➜
+<b>12.</b> Enhancements ➜
+<b>13.</b> Boardroom PPT with Storytelling
 
 </p>
 
@@ -80,16 +81,39 @@
 
 
 <p align="center">
-  <a href="https://github.com/data98priyanka/Evereve-Product-Marketing-Analytics-Business-Growth-AWS-ETL-Automation-BI-Dashboard"><img src="assets/project/EE.png" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/data98priyanka/Media--entertainment--sector"><img src="assets/project/FF.png" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/data98priyanka/ecommerce--retail"><img src="assets/project/CC.png" width="165"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/data98priyanka/telecom"><img src="assets/project/tt.png" width="170"></a>
+  <a href="https://github.com/data98priyanka/Evereve-Product-Marketing-Analytics-Business-Growth-AWS-ETL-Automation-BI-Dashboard">
+    <img src="assets/project/EE.png" width="200">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/data98priyanka/Media--entertainment--sector">
+    <img src="assets/project/FF.png" width="200">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/data98priyanka/ecommerce--retail">
+    <img src="assets/project/CC.png" width="195">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/data98priyanka/telecom">
+    <img src="assets/project/tt.png" width="200">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/data98priyanka/Manufacturing--Supply--chain"><img src="assets/project/mm.png" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/data98priyanka/BFSI--SECTOR"><img src="assets/project/BB.png" width="170"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/data98priyanka/Healthcare--Pharma"><img src="assets/project/HH.png" width="170"></a>
+  <a href="https://github.com/data98priyanka/Manufacturing--Supply--chain">
+    <img src="assets/project/mm.png" width="200">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/data98priyanka/BFSI--SECTOR">
+    <img src="assets/project/BB.png" width="200">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/data98priyanka/Healthcare--Pharma">
+    <img src="assets/project/HH.png" width="200">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/data98priyanka/Mini-projects-on-Advanced-Skills">
+    <img src="assets/project/mini1.png" width="200">
+  </a>
 </p>
 
 <br><br>
