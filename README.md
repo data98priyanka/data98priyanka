@@ -192,7 +192,7 @@
 
 
 <h2 align="center">⚡ My Tech Stack : </h2>
-<table align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
    <tr>
      <td align="center" width="100">
       <a href="https://www.python.org/doc/" target="_blank">
