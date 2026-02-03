@@ -191,7 +191,7 @@
 <br>
 
 
-<h2 align="center">⚡ My Tech Stack : </h2>
+<h2>⚡ My Tech Stack : </h2>
 <table align="center" style="border-collapse: collapse; border: none;">
    <tr>
      <td align="center" width="100">
@@ -351,8 +351,8 @@
     </td>
    </tr>  
 </table>
-<h3 align="center"> ⭐⭐ Learning Tools : </h3>
-<table align="center">
+<h3> ⭕ Learning Tools : </h3>
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
      <td align="center" width="100">
        <a href="https://pytorch.org/docs/stable/index.html" target="_blank">
@@ -412,7 +412,7 @@
 </table>
 
 ---
-<br><br>
+
 
 <h3 align="center">✨ Thank You for Visiting ✨</h3>
 
